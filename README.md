@@ -2,8 +2,16 @@
 
 ### 💁‍♂️ About Me
 
-I am a full-stack software engineer specializing in JavaScript and TypeScript development, using React, Next.js, React Native, Express, and NestJS frameworks.
-I am not afraid of challenges and pay particular attention to detail. That’s why I can always find solutions to uncommon tasks. I’m result-oriented, always doing my best to ensure high-quality work.
+Designing and developing software
+products from scratch
+Developing the client side of
+applications with React / Next.js, React
+Native, and Redux
+Implementing server-side applications
+and APIs with Node.js, Express, and
+NestJS
+
+I am a full-stack software engineer specializing in designing and developing software products from scratch. I am not afraid of challenges and pay particular attention to detail. That’s why I can always find solutions to uncommon tasks. I’m result-oriented, always doing my best to ensure high-quality work.
 
 ### 👨‍🎓 Technical Proficiencies
 
